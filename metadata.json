@@ -1,0 +1,8 @@
+{
+  "name": "Copy of MindScape - HTP Analysis",
+  "description": "An AI-powered House-Tree-Person psychological projection test analyzer. Draw directly or upload your artwork for instant psychological insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
